@@ -1,0 +1,59 @@
+html {
+  font-family: "Noto Sans", sans-serif;
+}
+
+i {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #b64c6e;
+  border-bottom: 2px solid #d89fb0;
+}
+
+nav li a:hover {
+  color: #860927;
+  border-bottom: 2px solid #860927;
+}
+
+.title {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
+}
+
+.btn-ghost {
+  border: 2px solid #d89fb0;
+  color: #b64c6e;
+}
+
+.btn:hover {
+  border-color: #860927;
+  color: #860927;
+  background-color: #d89fb0;
+}
+
+footer {
+  border-top: 2px solid #e2e2e2;
+  color: #666;
+}
+
+nav p {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  nav ul {
+    text-align: right;
+  }
+
+  nav p {
+    text-align: left;
+  }
+
+}
