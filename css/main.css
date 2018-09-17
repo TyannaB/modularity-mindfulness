@@ -8,13 +8,13 @@ i {
 
 nav li a {
   text-decoration: none;
-  color: #b64c6e;
-  border-bottom: 2px solid #d89fb0;
+  color: blue;
+  border-bottom: 2px solid skyblue;
 }
 
 nav li a:hover {
-  color: #860927;
-  border-bottom: 2px solid #860927;
+  color: navy;
+  border-bottom: 2px solid navy;
 }
 
 .title {
@@ -23,14 +23,14 @@ nav li a:hover {
 }
 
 .btn-ghost {
-  border: 2px solid #d89fb0;
-  color: #b64c6e;
+  border: 2px solid skyblue;
+  color: blue;
 }
 
 .btn:hover {
-  border-color: #860927;
-  color: #860927;
-  background-color: #d89fb0;
+  border-color: navy;
+  color: navy;
+  background-color: skyblue;
 }
 
 footer {
