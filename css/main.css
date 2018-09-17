@@ -6,15 +6,15 @@ i {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
-nav li a {
+nav a {
   text-decoration: none;
-  color: blue;
-  border-bottom: 2px solid skyblue;
+  color: #005e76;
+  border-bottom: 2px solid #0084a6;
 }
 
 nav li a:hover {
-  color: navy;
-  border-bottom: 2px solid navy;
+  color: #005e76;
+  border-bottom: 2px solid #005e76;
 }
 
 .title {
@@ -23,14 +23,14 @@ nav li a:hover {
 }
 
 .btn-ghost {
-  border: 2px solid skyblue;
-  color: blue;
+  border: 2px solid #0084a6;
+  color: #005e76;
 }
 
 .btn:hover {
-  border-color: navy;
-  color: navy;
-  background-color: skyblue;
+  border-color: #8bc9d9;
+  color: #8bc9d9;
+  background-color: #0084a6;
 }
 
 footer {
